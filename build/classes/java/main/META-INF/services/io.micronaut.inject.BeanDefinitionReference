@@ -1,0 +1,8 @@
+steamdom.master.controller.$$StandardOwnersControllerDefinition$InterceptedDefinitionClass
+steamdom.master.repository.$$StandardOwnersRepositoryDefinition$InterceptedDefinitionClass
+steamdom.master.controller.$StandardOwnersControllerDefinitionClass
+steamdom.master.controller.$StandardYearsControllerDefinitionClass
+steamdom.master.repository.$$StandardYearsRepositoryDefinition$InterceptedDefinitionClass
+steamdom.master.controller.$$StandardYearsControllerDefinition$InterceptedDefinitionClass
+steamdom.master.repository.$StandardOwnersRepositoryDefinitionClass
+steamdom.master.repository.$StandardYearsRepositoryDefinitionClass

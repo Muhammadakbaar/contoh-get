@@ -1,0 +1,23 @@
+---
+micronaut:
+  application:
+    name: steamdom-master
+  server:
+        port: 8000
+        cors: 
+            enabled: true
+
+---
+datasources:
+  default:
+    url: jdbc:postgresql://steamdom-db-master.cockroachdb:26257/steamdom_master
+    driverClassName: org.postgresql.Driver
+    username: root
+    password: ''
+jpa:
+  default:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+

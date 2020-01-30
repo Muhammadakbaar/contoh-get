@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: steamdom.master
+---
+testFramework: junit
+sourceLanguage: java
